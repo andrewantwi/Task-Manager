@@ -1,0 +1,3 @@
+.header-text {
+  @apply text-5xl font-semibold text-[#3B3E42];
+}
